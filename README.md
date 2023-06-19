@@ -17,3 +17,6 @@
 <img width="426" alt="Screenshot 2023-06-19 at 5 11 00 PM" src="https://github.com/abdulaze19/About-me-portfolio/assets/134359248/9bffe6d7-ab45-4af9-82a8-16114c9e2c1e">
 
 ## Link to deployed application
+https://abdulaze19.github.io/About-me-portfolio/
+https://github.com/abdulaze19/About-me-portfolio
+
